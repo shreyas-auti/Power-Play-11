@@ -56,7 +56,7 @@ Build a team that can:
 
 ---
 
-##  Role Parameters (with Technical Meanings)
+##  Role Parameters 
 
 ###  Openers
 - **Batting Avg > 30** – Avg. runs per innings
@@ -95,34 +95,16 @@ Build a team that can:
 
 ---
 
-##  Dashboard Screenshots
-
-### Team Selector
-![Team Selector](images/team_selector.png)
-
-### Batting Analysis
-![Batting KPIs](images/batting_kpis.png)
-
-### Bowling Insights
-![Bowling KPIs](images/bowling_kpis.png)
-
-
----
-
 ##  Files Included
 
 - `my_cricket_team.pdf` – Dashboard overview
-- `PowerPlayXI.pbix` – Power BI dashboard file *(add manually)*
+- `PowerPlayXI.pbix` – Power BI dashboard file 
 - `data_preprocessing.ipynb` – Jupyter Notebook
 - Cleaned Data:
   - `cleaned_player_info.csv`
   - `cleaned_batting_data.csv`
   - `cleaned_bowling_data.csv`
   - `cleaned_match_summary.csv`
-- Screenshot Images:
-  - `images/team_selector.png`
-  - `images/batting_kpis.png`
-  - `images/bowling_kpis.png`
 
 ---
 
@@ -135,8 +117,8 @@ YouTube Source
 
 ##  Author
 
-**Shreyas Auti**  
-*Business Analyst Intern | Data Visualization Enthusiast*  
+**Shreyas Auti**
+*Business Analyst | Data Visualizer
  Email    :- shreyas.auti.2001@gmail.com 
  Linkedin :- https://www.linkedin.com/in/shreyas-auti-301a21175/ 
 
@@ -147,6 +129,4 @@ YouTube Source
 This project is open for learning and portfolio use. Commercial use is not allowed without permission.
 
 ---
-
-##  Suggested Repo Structure
 
