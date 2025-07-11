@@ -112,15 +112,15 @@ Build a t-20 team that can:
 
 
 ###  Team Selector
-![Team Selector](all rounders.png)
+![Team Selector](all-rounders.png)
 
 
 ### Team Selector
-![Team Selector](specialist fast bowlers.png)
+![Team Selector](specialist-fast-bowlers.png)
 
 
 ### Team Selector
-![Team Selector](final 11.png)
+![Team Selector](final-11.png)
 
 ---
 
