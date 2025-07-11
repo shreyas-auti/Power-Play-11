@@ -95,31 +95,31 @@ Build a t-20 team that can:
 
 ##  Dashboard Screenshots
   
-###  Team Selector
+###  start building your world cup t20 team
 ![Team Selector](start.png)
 
 
-###  Team Selector
+###  select openers
 ![Team Selector](openers.png)
 
 
-###  Team Selector
+###  decide on middle order / anchors
 ![Team Selector](anchors.png)
 
 
-###  Team Selector
+###  decide your finishers
 ![Team Selector](finishers.png)
 
 
-###  Team Selector
+###  select all rounders
 ![Team Selector](all-rounders.png)
 
 
-### Team Selector
+### bring in fast bowlers
 ![Team Selector](specialist-fast-bowlers.png)
 
 
-### Team Selector
+### final team
 ![Team Selector](final-11.png)
 
 ---
