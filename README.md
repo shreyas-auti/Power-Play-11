@@ -93,6 +93,35 @@ Build a t-20 team that can:
 - **Bowling Avg < 20**
 - **Innings Bowled > 4**
 
+##  Dashboard Screenshots
+  
+###  Team Selector
+![Team Selector](start.png)
+
+
+###  Team Selector
+![Team Selector](openers.png)
+
+
+###  Team Selector
+![Team Selector](anchors.png)
+
+
+###  Team Selector
+![Team Selector](finishers.png)
+
+
+###  Team Selector
+![Team Selector](all rounders.png)
+
+
+### Team Selector
+![Team Selector](specialist fast bowlers.png)
+
+
+### Team Selector
+![Team Selector](final 11.png)
+
 ---
 
 ##  Files Included
