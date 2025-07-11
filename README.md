@@ -6,9 +6,9 @@
 
 ##  Objective
 
-> “We don’t know the strengths and weaknesses of our opponents, but give me the best 11 from this planet.”
+> “We don’t know the strengths and weaknesses of our opponents, but give me the best 11 t-20 team from this planet.based on t-20 world cup 2022”
 
-Build a team that can:
+Build a t-20 team that can:
 - **Score at least 180 runs on average**
 - **Defend at least 150 runs on average**
 
