@@ -23,13 +23,13 @@ Build a t-20 team that can:
 - `match_summary.json`
 
 ###  Cleaned CSV Files
-- `cleaned_player_info.csv`
-- `cleaned_batting_data.csv`
-- `cleaned_bowling_data.csv`
-- `cleaned_match_summary.csv`
+- `player_info.csv`
+- `batting_data.csv`
+- `bowling_data.csv`
+- `match_summary.csv`
 
 ###  Preprocessing Notebook
-- `data_preprocessing.ipynb` – Jupyter Notebook used to:
+- `data_transformation.ipynb` – Jupyter Notebook used to:
   - Load and clean raw JSON files
   - Handle missing values
   - Normalize nested structures
